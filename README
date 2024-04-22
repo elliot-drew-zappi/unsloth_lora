@@ -1,1 +1,5 @@
-init
+# unslothlora
+
+Code to train and run inference using lora adapters and LLMs with the unsloth package.
+
+Majority of code is adapted from the [unsloth github and colab examples](https://github.com/unslothai/unsloth/tree/main).
